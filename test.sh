@@ -34,6 +34,7 @@ echo "▄︻┻═┳一 🔴🔴=====💪💪NAZIM CP💪💪=====🔴🔴"
 echo "▄︻┻═┳一 🔴🔴{========FєєL ┼ђє P๏Щєr========}🔴🔴"
 echo "▄︻┻═┳一 ЩєLc๏Mє ┼๏ cyBєr_BLącK"
 sleep 1
+echo " "
 echo "HEY GUYS CYBER BLACK IS HERE";
 sleep 1
 echo "THIS IS OUR INDRUDECTION PAGE IN TERMUX";
