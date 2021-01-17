@@ -2,6 +2,7 @@
 sleep 1
 figlet Cyber Black
 sleep 2
+echo " "
 echo "▇◤▔▔▔▔▔▔▔◥▇"
 echo "▇▏◥▇◣┊◢▇◤▕▇"
 echo "▇▏▃▆▅▎▅▆▃▕▇"
@@ -13,6 +14,7 @@ echo "▇▇▇▇◣▇◢▇▇▇▇"
 echo "▇▇▇▇◣▇◢▇▇▇▇"
 echo "==WE ARE ANONYMOUS==";
 sleep 2
+echo " "
 echo "Author:Nazim Cp"
 echo "Email:nazimcp@gmail.com"
 echo "Telegram:@Cmastercode"
@@ -24,6 +26,7 @@ echo "Whatsapp:+91 7025604804"
 echo "Website:www.cyberblack.blogspot.com"
 echo "Snapchat:nazimcp";
 sleep 1
+echo " "
 echo "▄︻┻═┳一 🔴🔴--ЩєLc๏Mє ┼๏ ๏Цr ┼єrmЦx Pągє cyBєr_BLącK--🔴🔴"
 echo "▄︻┻═┳一 🔴--------♥️cyBєr_BLącK-๏FFIcIąL♥️---------🔴"
 echo "▄︻┻═┳一 🔴🔴----♥️♥️==cyBєr_BLącK==♥️♥️----🔴🔴"
@@ -48,4 +51,4 @@ sleep 1
 echo "I WILL MAKE THE TOTORIAL VIDEO ON IT AND UPLOAD IT IN OUR YOUTUBE CHANNEL";
 sleep 1
 echo "SO THANKS FOR VISITING MY OUR TERMUX PAGE BYE";
-done
+done done done done
